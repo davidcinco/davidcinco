@@ -9,7 +9,7 @@ I've been working with Python, SQL and relational databases building Cross-Platf
 My main programming language is Python 🐍 I like the amount of things you can build with it.
 I've also been learning more about QA, Testing and Automation using Playwright and TypeScript.
 
-You might see my profile with projects related to QA Automation or Data Engineering (two paths that I find it cool and interesting).
+You might see my profile with projects related to Test Automation or Data Engineering (two paths that I find it cool and interesting).
 
 ---------------------------------------------------
 Some of the things that I like to do in my free time:
