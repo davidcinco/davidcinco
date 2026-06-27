@@ -10,6 +10,7 @@ My main programming language is Python since I like the multiple usages of it, s
 I've also been interested in QA, Testing and Automation using Playwright and TypeScript.
 
 ---------------------------------------------------
-Favorite things:
+Things that I do in my free time:
 - Hanging out with my beautiful tabby cat
-- Playing Horror games and watching horror movies (I love phasmophobia and Dead by Daylight) 
+- Playing Horror games and watching horror movies (I love Phasmophobia and Dead by Daylight)
+- Use Google Maps
