@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey Everyone! Welcome to my Github Profile👋
 
-<!--
-**davidcinco/davidcinco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm David, a Software Engineer based in Mexico.
 
-Here are some ideas to get you started:
+I build a variety of software applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been working with Python, SQL and relational databases for the past 4 years.
+
+My main programming language is Python since I like the multiple usages of it, specially for data and Data Engineering.
+I've also been interested in QA, Testing and Automation using Playwright and TypeScript.
+
+---------------------------------------------------
+Favorite things:
+- Hanging out with my beautiful tabby cat
+- Playing Horror games and watching horror movies (I love phasmophobia and Dead by Daylight) 
