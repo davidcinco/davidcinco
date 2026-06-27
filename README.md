@@ -6,7 +6,7 @@ I build a variety of software applications and playwright frameworks.
 
 I've been working with Python, SQL and relational databases building Cross-Platform Applications for Desktop and Mobile devices for the past 4 years.
 
-My main programming language is Python 🐍 I like the amount of things you can build with it, specially in data.
+My main programming language is Python 🐍 I like the amount of things you can build with it.
 I've also been interested and learning more about QA, Testing and Automation using Playwright and TypeScript.
 
 You might see my profile with projects related to QA Automation or Data Engineering (two paths that I find it cool and interesting).
