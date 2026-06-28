@@ -2,14 +2,12 @@
 
 I'm David, a Software Engineer based in Mexico 🇲🇽.
 
-I build a variety of software applications and playwright frameworks.
+I build a variety of software applications and data pipelines.
 
 I've been working with Python, SQL and relational databases building Cross-Platform Applications for Desktop and Mobile devices for the past 4 years.
 
 My main programming language is Python 🐍 I like the amount of things you can build with it.
-I've also been learning more about QA, Testing and Automation using Playwright and TypeScript.
-
-You might see my profile with projects related to Test Automation or Data Engineering (two paths that I find it cool and interesting).
+I've also been learning more about QA, Testing and Automation.
 
 ---------------------------------------------------
 Some of the things that I like to do in my free time:
