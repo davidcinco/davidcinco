@@ -6,7 +6,7 @@ I build a variety of software applications and test automation frameworks.
 
 I've been working with Python, SQL and relational databases building Cross-Platform Applications for Desktop and Mobile devices for the past 4 years.
 
-My main languages are Python and TypeScript. I like the amount of things you can build with them.
+Main language that I use is Python but I also use TypeScript. I like the amount of things you can build with them.
 I've also been learning more about QA, Testing and Automation using Playwright & TypeScript as my main tools.
 
 ---------------------------------------------------
