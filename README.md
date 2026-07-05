@@ -12,6 +12,6 @@ I've also been learning more about QA, Testing and Automation using Playwright &
 ---------------------------------------------------
 Some of the things that I like to do in my free time:
 - Hanging out with my beautiful tabby cat
-- Playing Horror games and watching horror movies (I love Phasmophobia and Dead by Daylight)
+- Playing Horror Games and Source Games ( I love Phasmophobia, Dead by Daylight, Team Fortress 2 and Garry's Mod :D )
 - Use Google Maps
 - Solving questions with SQL
