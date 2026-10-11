@@ -11,5 +11,5 @@ My main language is Python but I like using other languages TypeScript for Test 
 ---------------------------------------------------
 Some of the things that I like to do in my free time:
 - Hanging out with my beautiful tabby cat
-- Playing Horror Games and Source Games ( I love Phasmophobia, Resident Evil, Team Fortress 2 and Garry's Mod :D )
+- Playing Horror Games and Source Games ( I love Phasmophobia, Dead By Daylight, Counter Strike and Garry's Mod :D )
 - Use Google Maps
