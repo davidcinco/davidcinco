@@ -6,7 +6,7 @@ I build software applications and test automation frameworks.
 
 I've been working with Python, SQL and relational databases building Cross-Platform Applications for Desktop and Mobile devices for the past 4 years.
 
-My main language is Python but I like using other languages; TypeScript, Ruby. I'm also learning more about Network.
+My main language is Python but I like using other languages; TypeScript, C#, Ruby.
 
 ---------------------------------------------------
 Some of the things that I like to do in my free time:
