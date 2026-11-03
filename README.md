@@ -2,7 +2,7 @@
 
 I'm David, a Software Engineer based in Mexico 🇲🇽.
 
-I build software applications, databases and RESTful APIs.
+I build software applications, test automation frameworks, databases and RESTful APIs.
 
 I've been working with Python, SQL and relational databases building Cross-Platform Applications for Desktop and Mobile devices for the past 4 years.
 
